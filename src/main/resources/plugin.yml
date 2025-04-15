@@ -1,0 +1,5 @@
+name: ChainCreeperExplosions
+version: '1.0'
+main: org.knpronoob.chainCreeperExplosions.ChainCreeperExplosions
+api-version: '1.21'
+author: KNProNoob
